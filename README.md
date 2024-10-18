@@ -31,8 +31,14 @@ Of note is the [Farama Foundation](https://farama.org/) which took over the main
 |---|---|--------|---|---|---|----|---|---|---|---|---|---|---|
 |Farama Foundation||||||||||||
 |[Gymnasium](https://gymnasium.farama.org/)|<img src="https://github.com/user-attachments/assets/5e305d37-f3ef-423d-805d-2557bf0ad785" width=50 height= 25>|Originally 'OpenAI Gym' <br> The first port of call. Contains many styles of environment from toy envs, classic control to Atari |✅|❌|From scratch (good documentation)|✅|✅|Simple-medium|✅|✅|✅|✅|✅|
-|Petting Zoo|---|---|---|---|---|----|---|---|---|---|---|---|---|
-|MiniGrid|---|---|---|---|---|----|---|---|---|---|---|---|---|
+|Petting Zoo|---|Designed for multi agent training. Many example environments.|---|---|---|----|---|---|---|---|---|---|---|
+|MiniGrid|---|A 2d grid environment. Goal ori-
+ented. Often trying to reach a
+given square, obstacles such as
+doors with keys lava etc. Also
+includes BabyAI environments
+which are more complex tasks
+such as finding objects.|---|---|---|----|---|---|---|---|---|---|---|
 |Mujoco|---|---|---|---|---|----|---|---|---|---|---|---|---|
 |Pybullet|---|---|---|---|---|----|---|---|---|---|---|---|---|
 |Starcrft 2|---|---|---|---|---|----|---|---|---|---|---|---|---|
