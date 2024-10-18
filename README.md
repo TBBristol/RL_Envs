@@ -8,11 +8,14 @@ Precisely matching the problem domain is probably possible if we are willing to 
 
 |Criteria|Explanation|
 |---|---|
-|Problem Space|What is the problem similar to at a very basic level? Games are very different to exploration and puzzle solving. If the purpose is explainability there must be something to explain. Also for consideration is how the environment might help to best illustrate your work by demonstrating a use-case.|
+|Problem Space|What is the problem similar to at a very basic level? Games are very different to exploration and puzzle solving. Some environemnts are _directly_ transferrable to the real world (e.g some Drone simulators). Also for consideration is how the environment might help to best illustrate your work by demonstrating a use-case.|
 |Discrete/Continuous|Many algorithms are designed to work on a certain type of state space|
 |Support|Some RLEnvs have developer or community support meaning problems can be solved very fast|
 |Updates|There is huge variability in how recently RLEnvs have been updated leading to potential package conflicts|
 |System Resources|RLEnvs are designed to be a toy problem but some have much larger state spaces, action spaces, episode lengths or rendering requirements. Iteration speed, computational requirements (and cost) and goal (sometimes we are aiming to show a method helps to solve complex Envs) need to be considered.|
+|API/Interface|Many RLEnvs follow a famliliar format (Gymnasium) for method calls and setting up the problem. This makes it easier to get to grips with both for the developer and anyone reading the code|
+|Benchmarks/Previous work|Some RLEnvs are considered benchmark problems meaning it is easy to compare results. Even if There is no comparison to be made future work may want to build on the effort and this is easier if using a non-obscure Env|
+
 
 
 
