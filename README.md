@@ -27,6 +27,8 @@ The selection of RLEnvs below is somewhat arbitary but should give a broad selec
 
 Of note is the [Farama Foundation](https://farama.org/) which took over the maintenence of the Gymnasium project from OpenAI. The Foundation maintains a good number of open-source RL [projects](https://farama.org/projects) and ensures that they are built to certain [standards](https://farama.org/project_standards). Multiple Envs listed below belong to the project and it is certainly a good starting point due to the great documentation and standardised APIs. 
 
+### Environment Summary
+
 |Environment|Image|        Description       |Discrete/Continuous|Multi-Agent|Customisable|Gymnasium Style API|Utils|Problem Complexity/Resources|Benchmarks|RL Library Compatibility|Updates|Documentation|Support|
 |---|---|--------|---|---|---|----|---|---|---|---|---|---|---|
 |Farama Foundation||||||||||||
