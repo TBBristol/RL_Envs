@@ -23,7 +23,8 @@ Precisely matching the problem domain is probably possible if we are willing to 
 
 The selection of RLEnvs below is somewhat arbitary but should give a broad selection for those wanting to find an Env for a research problem. Likewise the tabular information is simplified and there is more nuance when diving into the Envs themselves especially if customising (pretty much anything can be made to do anyting if you try hard!) but aims to provide a starting point. 
 
-#Farama Foundation 
+### Farama Foundation 
+
 <img src="https://github.com/user-attachments/assets/86e3c4cb-7573-4c54-a201-997de52dd0e7" width=50 height=50>
 
 
