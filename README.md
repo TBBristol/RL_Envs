@@ -29,6 +29,8 @@ Of note is the [Farama Foundation](https://farama.org/) which took over the main
 
 ### Environment Summary
 
+<h1>
+
 |Environment|Image|        Description       |Discrete/Continuous|Multi-Agent|Customisable|Gymnasium Style API|Utils|Problem Complexity/Resources|Benchmarks|RL Library Compatibility|Updates|Documentation|Support|
 |---|---|--------|---|---|---|----|---|---|---|---|---|---|---|
 |Farama Foundation||||||||||||
@@ -42,7 +44,7 @@ Of note is the [Farama Foundation](https://farama.org/) which took over the main
 |[Procgen](https://openai.com/index/procgen-benchmark/)|<img src="https://github.com/user-attachments/assets/52050884-a167-4bcb-a165-9b0a69beca6f" height=50 width=50>|A set of environments that are procedurally generated. Made to mea-sure how quickly RL agents learna new skill. Designed to ensure RL agent cannot overfit to a specific level layout.Mostly Atari style games|---|---|---|----|---|---|---|---|---|---|---|
 |[Deepmind Control Suite](https://deepmind.google/discover/blog/dm-control-software-and-tasks-for-continuous-control/)|<img src="https://github.com/user-attachments/assets/11d1fda3-0776-4300-b48f-ceff1a4a7289" width=50 height=50>|Uses Mujoco. Continuous benchmarked control tasks ranging from Cartpole to humanoid control.|---|---|---|----|---|---|---|---|---|---|---|
 
-
+</h1>
 ### Pufferlib\
 
 
