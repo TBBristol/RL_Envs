@@ -6,6 +6,9 @@ RL Environments (RLEnvs) are a complex topic, since we can make an environment t
 
 Precisely matching the problem domain is probably possible if we are willing to search for the correct env and customise the code. Mostly however we are interesting in testing that our algorithm functions as we would like especially while developing our work. Some of the criteria we can therefore select on are as follows:
 
+|Problem Space|What is the problem similar to at a very basic level games are very different to exploration and puzzle solving for example|
+
+
 
 
 
