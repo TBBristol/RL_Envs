@@ -47,7 +47,7 @@ Of note is the [Farama Foundation](https://farama.org/) which took over the main
 </h6>
 
 ### Pufferlib <img src="https://github.com/user-attachments/assets/e53d7ba8-e1f1-4dad-908a-b9b87a45cd9f" height=100 width = 200>
-[Pufferlib](https://github.com/PufferAI/PufferLib) 
+[Pufferlib](https://github.com/PufferAI/PufferLib) is a wrapper that promises to speed up custom environments and simpfly training. It also contains many optimised environments running at many times the speed of the originals. New but worth checking out if you feel that a faster env speed could help you.
 
 
 
