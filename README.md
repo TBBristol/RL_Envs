@@ -25,7 +25,7 @@ The selection of RLEnvs below is somewhat arbitary but should give a broad selec
 
 ### Farama Foundation <img src="https://github.com/user-attachments/assets/86e3c4cb-7573-4c54-a201-997de52dd0e7" width=50 height=50>
 
-Of note is the [Farama Foundation](https://farama.org/) which took over the Gymnasium project from OpenAI. The Foundation maintains a good number of open-source RL projects and ensures that they are built to certain [standards](https://farama.org/project_standards)
+Of note is the [Farama Foundation](https://farama.org/) which took over the maintenence of the Gymnasium project from OpenAI. The Foundation maintains a good number of open-source RL [projects](https://farama.org/projects) and ensures that they are built to certain [standards](https://farama.org/project_standards)
 
 |Environment|Image|Description|Discrete/Continuous|Multi-Agent|Customisable|Gymnasium Style API|Utils|Problem Complexity/Resources|Benchmarks|RL Library Compatibility|last Update|Documentation|Support|
 |---|---|---|---|---|---|----|---|---|---|---|---|---|---|
