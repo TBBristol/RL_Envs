@@ -30,7 +30,7 @@ Of note is the [Farama Foundation](https://farama.org/) which took over the main
 |Environment|Image|Description|Discrete/Continuous|Multi-Agent|Customisable|Gymnasium Style API|Utils|Problem Complexity/Resources|Benchmarks|RL Library Compatibility|last Update|Documentation|Support|
 |---|---|---|---|---|---|----|---|---|---|---|---|---|---|
 |Farama Foundation||||||||||||
-|---|---|---|---|---|---|----|---|---|---|---|---|---|---|
+|[Gymnasium](https://gymnasium.farama.org/)|---|---|---|---|---|----|---|---|---|---|---|---|---|
 |---|---|---|---|---|---|----|---|---|---|---|---|---|---|
 |---|---|---|---|---|---|----|---|---|---|---|---|---|---|
 
