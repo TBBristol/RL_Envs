@@ -45,7 +45,10 @@ Of note is the [Farama Foundation](https://farama.org/) which took over the main
 |[Deepmind Control Suite](https://deepmind.google/discover/blog/dm-control-software-and-tasks-for-continuous-control/)|<img src="https://github.com/user-attachments/assets/11d1fda3-0776-4300-b48f-ceff1a4a7289" width=50 height=50>|Uses Mujoco. Continuous benchmarked control tasks ranging from Cartpole to humanoid control.|---|---|---|----|---|---|---|---|---|---|---|
 
 </h6>
-### Pufferlib\
+
+### Pufferlib
+[Pufferlib](https://github.com/PufferAI/PufferLib) <img src="https://github.com/user-attachments/assets/e53d7ba8-e1f1-4dad-908a-b9b87a45cd9f" height=100 width = 150>
+
 
 
 
