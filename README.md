@@ -25,6 +25,7 @@ The selection of RLEnvs below is somewhat arbitary but should give a broad selec
 
 ### Farama Foundation <img src="https://github.com/user-attachments/assets/86e3c4cb-7573-4c54-a201-997de52dd0e7" width=50 height=50>
 
+Of note is the [Farama Foundation](https://farama.org/) 
 
 |Environment|Image|Description|Discrete/Continuous|Multi-Agent|Customisable|Gymnasium Style API|Utils|Problem Complexity/Resources|Benchmarks|RL Library Compatibility|last Update|Documentation|Support|
 |---|---|---|---|---|---|----|---|---|---|---|---|---|---|
