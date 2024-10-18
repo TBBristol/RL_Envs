@@ -27,13 +27,13 @@ The selection of RLEnvs below is somewhat arbitary but should give a broad selec
 
 Of note is the [Farama Foundation](https://farama.org/) which took over the maintenence of the Gymnasium project from OpenAI. The Foundation maintains a good number of open-source RL [projects](https://farama.org/projects) and ensures that they are built to certain [standards](https://farama.org/project_standards). Multiple Envs listed below belong to the project and it is certainly a good starting point due to the great documentation and standardised APIs. 
 
-|Environment|Image|     Description    |Discrete/Continuous|Multi-Agent|Customisable|Gymnasium Style API|Utils|Problem Complexity/Resources|Benchmarks|RL Library Compatibility|Updates|Documentation|Support|
+|Environment|Image|        Description       |Discrete/Continuous|Multi-Agent|Customisable|Gymnasium Style API|Utils|Problem Complexity/Resources|Benchmarks|RL Library Compatibility|Updates|Documentation|Support|
 |---|---|--------|---|---|---|----|---|---|---|---|---|---|---|
 |Farama Foundation||||||||||||
 |[Gymnasium](https://gymnasium.farama.org/)|<img src="https://github.com/user-attachments/assets/5e305d37-f3ef-423d-805d-2557bf0ad785" width=50 height= 25>|Originally 'OpenAI Gym' <br> The first port of call. Contains many styles of environment from toy envs, classic control to Atari |✅|❌|From scratch (good documentation)|✅|✅|Simple-medium|✅|✅|✅|✅|✅|
 |Petting Zoo|---|Designed for multi agent training. Many example environments.|---|---|---|----|---|---|---|---|---|---|---|
 |MiniGrid|---|A 2d grid environment. Goal ori-ented. Often trying to reach a given square, obstacles such as doors with keys lava etc. Also includes BabyAI environments which are more complex tasks such as finding objects.|---|---|---|----|---|---|---|---|---|---|---|
-|Mujoco|---|---|---|---|---|----|---|---|---|---|---|---|---|
+|Mujoco|---|Multi-Joint Dynamics with Contact. A collection of simulation tasks especially suited to simulating robotic and biomechanics.Mostly stochasitc (not deterministic in initial state).|---|---|---|----|---|---|---|---|---|---|---|
 |Pybullet|---|Robotic simulation with focus on sim to real transfer. Full physics simulation. Very customisable and simulates anything from drones to robotic arms. Some sample gym environments
 included|---|---|---|----|---|---|---|---|---|---|---|
 |Starcrft 2|---|An RL environement based on the game Starcraft2. A difficult RL problem. Some "mini" games with potential for simpler senarios|---|---|---|----|---|---|---|---|---|---|---|
