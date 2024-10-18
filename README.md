@@ -8,7 +8,7 @@ Precisely matching the problem domain is probably possible if we are willing to 
 
 |Criteria|Explanation|
 |---|---|
-|Problem Space|What is the problem similar to at a very basic level? Games are very different to exploration and puzzle solving for example, if the purpose is explainability there must be something to explain. Also for consideration is how the environment might help to explain how your algorithm works|
+|Problem Space|What is the problem similar to at a very basic level? Games are very different to exploration and puzzle solving. If the purpose is explainability there must be something to explain. Also for consideration is how the environment might help to illustrate how your algorithm works and sell your work|
 |
 
 
