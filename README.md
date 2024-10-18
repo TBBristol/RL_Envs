@@ -15,7 +15,8 @@ Precisely matching the problem domain is probably possible if we are willing to 
 |System Resources|RLEnvs are designed to be a toy problem but some have much larger state spaces, action spaces, episode lengths or rendering requirements. Iteration speed, computational requirements (and cost) and goal (sometimes we are aiming to show a method helps to solve complex Envs) need to be considered.|
 |API/Interface|Many RLEnvs follow a famliliar format (Gymnasium) for method calls and setting up the problem. This makes it easier to get to grips with both for the developer and anyone reading the code|
 |Benchmarks/Previous work|Some RLEnvs are considered benchmark problems meaning it is easy to compare results. Even if There is no comparison to be made future work may want to build on the effort and this is easier if using a non-obscure Env|
-|Compatibility with RL libraries|Whilst most if not all can be made to work some Envs state that they are directly compatible with some RL libraries meaning training an agent is as simple as selecting the algorithm and calling the function. Some examples are [Stable Baselines 3](https://stable-baselines3.readthedocs.io/en/master/) or [Clean RL](https://docs.cleanrl.dev/)
+|Compatibility with RL libraries|Some Envs state that they are directly compatible with some RL libraries meaning training an agent is as simple as selecting the algorithm and calling the function. Some examples are [Stable Baselines 3](https://stable-baselines3.readthedocs.io/en/master/) or [Clean RL](https://docs.cleanrl.dev/). While most Envs can be made to work with these libraries if they are designed to be compatible this speeds up the process a lot.|
+|Documentation/Examples|Some RLEnvs have extensive documentation meaning it is easy to troubleshoot without reading through the Env code. In addition many have example implementations which aid in getting a minimally functioning example up and running very quickly.|
 
 
 
