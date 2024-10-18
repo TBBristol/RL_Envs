@@ -35,10 +35,10 @@ Of note is the [Farama Foundation](https://farama.org/) which took over the main
 |MiniGrid|---|A 2d grid environment. Goal ori-ented. Often trying to reach a given square, obstacles such as doors with keys lava etc. Also includes BabyAI environments which are more complex tasks such as finding objects.|---|---|---|----|---|---|---|---|---|---|---|
 |Mujoco|---|---|---|---|---|----|---|---|---|---|---|---|---|
 |Pybullet|---|---|---|---|---|----|---|---|---|---|---|---|---|
-|Starcrft 2|---|---|---|---|---|----|---|---|---|---|---|---|---|
-|Unity ML|---|---|---|---|---|----|---|---|---|---|---|---|---|
-|Procgen|---|---|---|---|---|----|---|---|---|---|---|---|---|
-|Deepmind Control Suite|---|---|---|---|---|----|---|---|---|---|---|---|---|
+|Starcrft 2|---|An RL environement based on the game Starcraft2. A difficult RL problem. Some "mini" games with potential for simpler senarios|---|---|---|----|---|---|---|---|---|---|---|
+|Unity ML|---|Games and simulations. 17 exam-ple environments. 2D/3D/VR|---|---|---|----|---|---|---|---|---|---|---|
+|Procgen|---|A set of environemnts that are pro-cedurally generated. Made to mea-sure how quickly RL agents learna new skill. Designed to ensure RL agent cannot overfit to a specific level layout.Mostly Atari style games|---|---|---|----|---|---|---|---|---|---|---|
+|Deepmind Control Suite|---|Uses Mujoco.Continuous benchmarked control tasks ranging from Cartpole to humanoid control.|---|---|---|----|---|---|---|---|---|---|---|
 
 
 
