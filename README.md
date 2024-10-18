@@ -25,7 +25,7 @@ The selection of RLEnvs below is somewhat arbitary but should give a broad selec
 
 |Environment|Image|Description|Discrete/Continuous|Multi-Agent|Customisable|Gymnasium Style API|Utils|Problem Complexity/Resources|Benchmarks|RL Library Compatibility|last Update|Documentation|Support|
 |---|---|---|---|---|---|----|---|---|---|---|---|---|---|
-|---|---|---|---|---|---|----|---|---|---|---|---|---|---|
+|Farama Foundation|---|---|---|---|---|----|---|---|---|---|---|---|---|
 |---|---|---|---|---|---|----|---|---|---|---|---|---|---|
 |---|---|---|---|---|---|----|---|---|---|---|---|---|---|
 |---|---|---|---|---|---|----|---|---|---|---|---|---|---|
