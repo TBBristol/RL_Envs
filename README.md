@@ -31,8 +31,16 @@ Of note is the [Farama Foundation](https://farama.org/) which took over the main
 |---|---|--------|---|---|---|----|---|---|---|---|---|---|---|
 |Farama Foundation||||||||||||
 |[Gymnasium](https://gymnasium.farama.org/)|<img src="https://github.com/user-attachments/assets/5e305d37-f3ef-423d-805d-2557bf0ad785" width=50 height= 25>|Originally 'OpenAI Gym' <br> The first port of call. Contains many styles of environment from toy envs, classic control to Atari |✅|❌|From scratch (good documentation)|✅|✅|Simple-medium|✅|✅|✅|✅|✅|
-|---|---|---|---|---|---|----|---|---|---|---|---|---|---|
-|---|---|---|---|---|---|----|---|---|---|---|---|---|---|
+|Petting Zoo|---|---|---|---|---|----|---|---|---|---|---|---|---|
+|MiniGrid|---|---|---|---|---|----|---|---|---|---|---|---|---|
+|Mujoco|---|---|---|---|---|----|---|---|---|---|---|---|---|
+|Pybullet|---|---|---|---|---|----|---|---|---|---|---|---|---|
+|Starcrft 2|---|---|---|---|---|----|---|---|---|---|---|---|---|
+|Unity ML|---|---|---|---|---|----|---|---|---|---|---|---|---|
+|Procgen|---|---|---|---|---|----|---|---|---|---|---|---|---|
+|Deepmind Control Suite|---|---|---|---|---|----|---|---|---|---|---|---|---|
+
+
 
 
 
