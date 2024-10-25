@@ -23,9 +23,9 @@ Precisely matching the problem domain is probably possible if we are willing to 
 
 The selection of RLEnvs below is somewhat arbitary but should give a broad selection for those wanting to find an Env for a research problem. Likewise the tabular information is simplified and there is more nuance when diving into the Envs themselves especially if customising (pretty much anything can be made to do anyting if you try hard!) but aims to provide a starting point. Some of the Envs below are themselves a _collection_ of RLEnvs under a certain framework or branding. 
 
-### Farama Foundation <img src="https://github.com/user-attachments/assets/86e3c4cb-7573-4c54-a201-997de52dd0e7" width=50 height=50>
+To reiterate many of the classifications below can be answered as "sort of" and with effort you can do pretty much anything with any environment. The table seeks to capture the out of the box feel for what you get. 
 
-Of note is the [Farama Foundation](https://farama.org/) which took over the maintenence of the Gymnasium project from OpenAI. The Foundation maintains a good number of open-source RL [projects](https://farama.org/projects) and ensures that they are built to certain [standards](https://farama.org/project_standards). Multiple Envs listed below belong to the project and it is certainly a good starting point due to the great documentation and standardised APIs. 
+Below the summary is another table for quick environment selection.
 
 ### Environment Summary
 
@@ -45,6 +45,14 @@ Of note is the [Farama Foundation](https://farama.org/) which took over the main
 |[Deepmind Control Suite](https://deepmind.google/discover/blog/dm-control-software-and-tasks-for-continuous-control/)|<img src="https://github.com/user-attachments/assets/11d1fda3-0776-4300-b48f-ceff1a4a7289" width=50 height=50>|Uses Mujoco. Continuous benchmarked control tasks ranging from Cartpole to humanoid control.|Continuous|Both|:x:|:x:|:x:|High|✅|:x:|✅|✅|:x:|
 
 </h6>
+
+|Use case|Env|
+|---|---|
+
+
+### Farama Foundation <img src="https://github.com/user-attachments/assets/86e3c4cb-7573-4c54-a201-997de52dd0e7" width=50 height=50>
+
+Of note is the [Farama Foundation](https://farama.org/) which took over the maintenence of the Gymnasium project from OpenAI. The Foundation maintains a good number of open-source RL [projects](https://farama.org/projects) and ensures that they are built to certain [standards](https://farama.org/project_standards). Multiple Envs listed below belong to the project and it is certainly a good starting point due to the great documentation and standardised APIs. 
 
 ### Pufferlib <img src="https://github.com/user-attachments/assets/e53d7ba8-e1f1-4dad-908a-b9b87a45cd9f" height=100 width = 200>
 [Pufferlib](https://github.com/PufferAI/PufferLib) is a wrapper that promises to speed up custom environments and simpfly training. It also contains many optimised environments running at many times the speed of the originals. New but worth checking out if you feel that a faster env speed could help you.
