@@ -48,6 +48,15 @@ Below the summary is another table for quick environment selection.
 
 |Use case|Env|
 |---|---|
+|It's my first effort at RL| Gymnasium|
+|Experiment with alogrithms, iterate quickly, have a quick set up, tons of support and lots of problem domains| Anything by Farama|
+|First go at multi-agent| Petting-zoo|
+|Pushing performance on continuous control|  Deepmind control suite|
+|Robotic like tasks| Mujoco/ Pybullet|
+|Simulate custom games in 2D/3D/VR | Unity ML|
+|Test the robustness of learning| Procgen|
+|Multi-goal logical puzzles| Mini-grid|
+|Complex strategy|Starcraft 2|
 
 
 ### Farama Foundation <img src="https://github.com/user-attachments/assets/86e3c4cb-7573-4c54-a201-997de52dd0e7" width=50 height=50>
