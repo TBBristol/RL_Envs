@@ -38,7 +38,7 @@ Below the summary is another table for quick environment selection.
 |[Petting Zoo](https://pettingzoo.farama.org/index.html)|<img src="https://github.com/user-attachments/assets/44d67fa2-86fe-4a47-a2ec-1400bc688e5f" width =50 height =50>|Designed for multi agent training. Many example environments.|✅|✅|✅|✅|✅|Medium|Env Depnt|✅|✅|✅|✅|
 |[MiniGrid](https://minigrid.farama.org/)| <img src="https://github.com/user-attachments/assets/6960eb1e-c9a4-4b9d-b15d-3f265fa0fbef" width=50 height =50>|A 2d grid environment. Goal ori-ented. Often trying to reach a given square, obstacles such as doors with keys lava etc. Also includes BabyAI environments which are more complex tasks such as finding objects.|Discrete|:x:|✅|✅|✅|low-med|List of published papers|✅|✅|✅|✅|
 |[Pybullet](https://pybullet.org/wordpress/)|<img src="https://github.com/user-attachments/assets/51b26653-2d0f-4c30-af3c-0dc8e7acf491" width=70 height=50>|Robotic simulation with focus on sim to real transfer. Full physics simulation. Very customisable and simulates anything from drones to robotic arms. Some sample gym environments included|Continuous|Possible|High customimisability, complex|Sample gymstyle otherwise no|✅|High|With a search for papers|:x:|2022|✅|Some|
-|[IssacLab](https://isaac-sim.github.io/IsaacLab/main/index.html)|<img src="https://github.com/user-attachments/assets/ec395356-d9e0-422d-9ce0-759567386b46" width=50 height =50>|--------|---|---|---|----|---|---|---|---|---|---|---|
+|[IssacLab](https://isaac-sim.github.io/IsaacLab/main/index.html)|<img src="https://github.com/user-attachments/assets/ec395356-d9e0-422d-9ce0-759567386b46" width=50 height =50>|Built on Nvidia IssacSim, ray-tracing, more based around robotics (actuators etc) simuation and great visuals|✅|Possible|✅|:x:|✅|Higher|:x:|:x:|✅|✅|✅|
 |[Starcraft 2](https://github.com/google-deepmind/pysc2)|<img src="https://github.com/user-attachments/assets/3f1827f7-fa70-4c7f-86c8-601eecf1278f" wiodth=50 height=50>|Based on the RTS game Starcraft2. Some "mini" games with potential for simpler senarios|Discrete(functions)|✅|:x:|:x:|:x:|High|Yes|:x:|:x:|✅|:x:|
 |[Unity ML](https://unity-technologies.github.io/ml-agents/Getting-Started/)|<img src="https://github.com/user-attachments/assets/3720f0bb-423a-435e-a1bd-a4ddc5483b98" width=50 height=50>|Games and simulations. 17 example environments. 2D/3D/VR. Turn  games into RL|✅|✅|Highly customisable, complex|Various wrappers|✅|High|With paper search|:x:|✅|✅|:x:|
 |[Procgen](https://openai.com/index/procgen-benchmark/)|<img src="https://github.com/user-attachments/assets/52050884-a167-4bcb-a165-9b0a69beca6f" height=50 width=50>|A set of environments that are procedurally generated. Made to mea-sure how quickly RL agents learna new skill. Designed to ensure RL agent cannot overfit to a specific level layout.Mostly Atari style games|Discrete|:x:|:x:|✅|:x:|Med|✅|:x:|:x:|Limited|:x:|
@@ -52,7 +52,8 @@ Below the summary is another table for quick environment selection.
 |Experiment with alogrithms, iterate quickly, have a quick set up, tons of support and lots of problem domains| Anything by Farama|
 |First go at multi-agent| Petting-zoo|
 |Pushing performance on continuous control|  Deepmind control suite|
-|Robotic like tasks| Mujoco/ Pybullet|
+|Robotic like tasks| Pybullet|
+|Pure robotic simulation| Issaclab|
 |Simulate custom games in 2D/3D/VR | Unity ML|
 |Test the robustness of learning| Procgen|
 |Multi-goal logical puzzles| Mini-grid|
